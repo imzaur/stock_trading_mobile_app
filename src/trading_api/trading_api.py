@@ -6,8 +6,6 @@ from mobile_app.utils import get_logger
 
 logger = get_logger()
 
-# API_KEY = "PKWUCDMU2A1SA1FMCWZC"
-# API_SECRET = "QFGAo52OvuE3vC8bI86J8Hy8cfXHlV0GTztDDPaB"
 ALPACA_API_BASE_URL = "https://paper-api.alpaca.markets"
 
 
