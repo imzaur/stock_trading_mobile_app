@@ -1,7 +1,7 @@
 from kivy.app import App
 from kivy.uix.screenmanager import ScreenManager
 
-from mobile_app.screens import LoginScreen, Menu, CurrentStock
+from src.mobile_app.screens import LoginScreen, Menu, CurrentStock
 
 
 class MainApp(App):
